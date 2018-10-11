@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\mikan\source\repos\swe20004\e3\e3\main.cpp(71): warning C4101: 'uC': unreferenced local variable
+c:\users\mikan\source\repos\swe20004\e3\e3\main.cpp(71): warning C4101: 'IC': unreferenced local variable
+c:\users\mikan\source\repos\swe20004\e3\e3\main.cpp(71): warning C4101: 'VC': unreferenced local variable
+  E3.vcxproj -> C:\Users\Mikan\source\repos\SWE20004\E3\Debug\E3.exe
