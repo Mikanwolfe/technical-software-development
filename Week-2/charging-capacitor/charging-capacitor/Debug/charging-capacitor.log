@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\mikan\source\repos\swe20004\t2\charging-capacitor\charging-capacitor\main.cpp(47): warning C4101: 'uC': unreferenced local variable
+c:\users\mikan\source\repos\swe20004\t2\charging-capacitor\charging-capacitor\main.cpp(47): warning C4101: 'IC': unreferenced local variable
+c:\users\mikan\source\repos\swe20004\t2\charging-capacitor\charging-capacitor\main.cpp(47): warning C4101: 'VC': unreferenced local variable
+  charging-capacitor.vcxproj -> C:\Users\Mikan\source\repos\SWE20004\T2\charging-capacitor\Debug\charging-capacitor.exe
