@@ -1,8 +1,7 @@
 # technical-software-development
-Code from a certain unit.
+by mikanwolfe, mikanwolfe@nekox.net
 
-### This repository is depreciated
-All of the code here was used and is no longer in use. 
-There will be no updating or optimising or any of the sort.
+---
+This repository contains the tasks completed from the *Technical Software Development* unit and acts as an archive of sorts.
 
-It's just a repository.
+### This repository will be updated in due time to include the rest of the tasks.
